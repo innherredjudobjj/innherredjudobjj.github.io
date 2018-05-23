@@ -6,7 +6,7 @@ img: snorre_johansen.jpg
 thumbnail: snorre_johansen.jpg
 alt: Snorre Johansen, trener barn og ungdom
 description: |-
-  3.-dan judo. Snorre er en av Norges mest erfarne stevneledere og har i flere tiår vært sportslig leder for Levanger Judoklubb.
+  4.-dan judo. Snorre er en av Norges mest erfarne stevneledere og har i flere tiår vært sportslig leder for Levanger Judoklubb.
 
   Snorre jobber til daglig som universitetslektor i norsk ved Nord universitet.
 social:
@@ -15,4 +15,3 @@ social:
 - title: instagram
   url: https://www.instagram.com/snorrejohansen
 ---
-
