@@ -8,7 +8,7 @@ alt: Ole Christian Langfjæran, trener brasiliansk jiu-jitsu
 description: |-
   1.-dan judo, blått belte BJJ. En mangeårig konkurranseutøver i judo som i Oslo byttet beite og begynte med brasiliansk jiu-jitsu.
 
-  Til daglig jobber Ole Christian som senior utvikler i Unacast i Oslo.
+  Til daglig jobber Ole Christian som seniorutvikler i Unacast i Oslo.
 social:
 - title: twitter
   url: https://twitter.com/judoole
